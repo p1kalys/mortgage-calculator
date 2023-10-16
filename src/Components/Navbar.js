@@ -6,10 +6,10 @@ import { Container } from "@mui/system";
 const Navbar = () => {
   return (
     <AppBar position="static">
-      <Container maxWidth='xl'>
+      <Container maxWidth='lg'>
         <Toolbar>
           <Typography variant="h5">
-            Bank of React
+            Mortgage Calculator
           </Typography>
         </Toolbar>
       </Container>
